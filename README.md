@@ -1,4 +1,4 @@
-# Family Collector | Java application
+# Family Collector - Your All-in-One Family Management and Memory Preservation App | Java 
 Welcome to the familyCollector repository! This Java application is your all-in-one solution for managing your family-related data seamlessly. familyCollector not only helps you organize family information but also enables you to capture and store precious memories with ease, all while utilizing the power of Firestore, a cloud-based database.
 Key Features:
 
@@ -9,7 +9,7 @@ Key Features:
 - 🤝 **Collaboration**: Collaborate with family members in real-time.
 
 **Contact:**
-For questions or assistance, reach out to us at [your-ayoiastar@gmail.com](mailto:your-ayoiastar@gmail.com).
+For questions or assistance, reach out to us at [ayoiastar@gmail.com](mailto:your-ayoiastar@gmail.com).
 
 Thank you for choosing familyCollector to preserve and celebrate your family's heritage with ease!
 
