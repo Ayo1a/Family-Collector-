@@ -1,12 +1,15 @@
-# Family-Collector
+# Family Collector | Java application
 Welcome to the familyCollector repository! This Java application is your all-in-one solution for managing your family-related data seamlessly. familyCollector not only helps you organize family information but also enables you to capture and store precious memories with ease, all while utilizing the power of Firestore, a cloud-based database.
 Key Features:
 
-Family Tree: Create and maintain a detailed family tree effortlessly.
-Memory Vault: Document and share family stories, photos, and memories securely.
-Photo Capture: Capture and save photos directly within the app for instant family moments.
-Photo Upload: Easily upload photos to your family's digital archive.
-User Registration: Securely register and manage family members' access.
-Folder Organization: Save and categorize family data and photos in folders for easy retrieval.
-Firestore Integration: Utilize Firestore as a cloud-based database to store and synchronize family data across devices.
-Collaboration: Collaborate with family members in real-time to build a comprehensive family history.
+- 📷 **Photo Capture and Upload**: Capture, upload, and save family photos.
+- 👪 **User Registration**: Securely manage family members' access.
+- 📂 **Folder Organization**: Organize data and photos in folders.
+- ☁️ **Firestore Integration**: Utilize cloud synchronization for data storage.
+- 🤝 **Collaboration**: Collaborate with family members in real-time.
+
+**Contact:**
+For questions or assistance, reach out to us at [your-ayoiastar@gmail.com](mailto:your-ayoiastar@gmail.com).
+
+Thank you for choosing familyCollector to preserve and celebrate your family's heritage with ease!
+
